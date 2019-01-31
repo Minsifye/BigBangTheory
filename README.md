@@ -1,4 +1,4 @@
-# This Folder holds practice notebooks for Data Analysis and Machine Learning Techniques.
+# This Repository holds practice notebooks for various small projects using Data Analysis techniques and Machine Learning Algorithms.
 
 #### 911 Calls Analysis -
 A data analysis project on 911 calls dataset(Kaggle) using Pandas and Numpy Libraries for data mining and Seaborn for data visualization. This is a practice capstone project with Udemy. 
