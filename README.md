@@ -1,4 +1,4 @@
-# This Repository holds practice notebooks for various small projects using Data Analysis techniques and Machine Learning Algorithms.
+# This Repository contains practice notebooks for projects in Data Analysis and Machine Learning Algorithms.
 
 #### [911 Calls Analysis](https://github.com/Minsifye/Practice/blob/master/911_Calls_Data_Capstone_Project-DataAnalysis.ipynb) -
 A data analysis project on 911 calls dataset(Kaggle) using Pandas and Numpy Libraries for data mining and Seaborn for data visualization. This is a practice capstone project with Udemy. 
