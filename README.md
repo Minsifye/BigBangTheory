@@ -10,4 +10,3 @@ A unsupervised learning algorithm used to classify private and public universiti
 
 #### [Gradient Descent Algorithm](https://github.com/Minsifye/Practice/blob/master/GradientDescent.ipynb) -
 Gradient Descent algorithm to find the boundary in a small dataset. This project is part of Udacity Data Scientist Nanodegree.
-
